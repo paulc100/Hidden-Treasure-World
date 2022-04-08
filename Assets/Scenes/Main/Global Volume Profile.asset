@@ -16,7 +16,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   redOutRedIn:
     m_OverrideState: 0
-    m_Value: 100
+    m_Value: 200
     min: -200
     max: 200
   redOutGreenIn:
@@ -25,7 +25,7 @@ MonoBehaviour:
     min: -200
     max: 200
   redOutBlueIn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 5
     min: -200
     max: 200
@@ -82,7 +82,7 @@ MonoBehaviour:
     min: -100
     max: 100
   colorFilter:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 0.8726415, g: 0.9812457, b: 1, a: 1}
     hdr: 1
     showAlpha: 0
