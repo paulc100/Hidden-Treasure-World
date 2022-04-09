@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Material.005
+  m_Name: LightWood
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ShaderKeywords: _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECULAR_SETUP
   m_LightmapFlags: 4
@@ -107,12 +107,12 @@ Material:
     - _WorkflowMode: 0
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.93725455, g: 0.8235291, b: 0.72941166, a: 1}
-    - _Color: {r: 0.8631567, g: 0.64447933, b: 0.49102083, a: 1}
+    - _BaseColor: {r: 0.56862724, g: 0.49803895, b: 0.43921566, a: 1}
+    - _Color: {r: 0.28314856, g: 0.2122306, b: 0.16202942, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &4564924262297450984
+--- !u!114 &618901143616780645
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
