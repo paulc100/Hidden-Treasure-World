@@ -5375,7 +5375,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playSound: Gem
-  stopSound: 
+  stopSound: Interior
 --- !u!65 &290449455
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5405,7 +5405,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 290449453}
   m_LocalRotation: {x: -0, y: -0.14458945, z: -0, w: 0.9894917}
-  m_LocalPosition: {x: -78.22, y: 4.18, z: -57.52}
+  m_LocalPosition: {x: -79.21, y: 4.18, z: -57.82}
   m_LocalScale: {x: 1, y: 5.721972, z: 10.851142}
   m_Children: []
   m_Father: {fileID: 0}
