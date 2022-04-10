@@ -18,7 +18,7 @@ RenderSettings:
   m_FogColor: {r: 0.74509805, g: 0.90588236, b: 0.9490196, a: 1}
   m_FogMode: 1
   m_FogDensity: 0.05
-  m_LinearFogStart: 20
+  m_LinearFogStart: 70
   m_LinearFogEnd: 400
   m_AmbientSkyColor: {r: 0.07643291, g: 0.080521226, b: 0.1, a: 0.1}
   m_AmbientEquatorColor: {r: 0.05, g: 0.05, b: 0.05, a: 0.05}
@@ -31473,7 +31473,7 @@ MonoBehaviour:
     Source: {fileID: 0}
   - Name: Shore
     Clip: {fileID: 8300000, guid: fb3831d6d2ebe9f4ba694375fa080398, type: 3}
-    Volume: 0.25
+    Volume: 0.2
     Pitch: 0
     Time: 0
     Speed: 1
